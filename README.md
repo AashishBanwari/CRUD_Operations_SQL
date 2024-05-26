@@ -1,3 +1,7 @@
+## CRUD Operations:
+
+(**Create**, **Read**, **Update**, **Delete**) are fundamental to SQL database management. These operations enable the creation, retrieval, modification, and deletion of data within database tables. By leveraging SQL commands such as **INSERT**, **SELECT**, **UPDATE**, and **DELETE**, users can efficiently manage data, ensuring database integrity and functionality.
+
 ## Schema Information:
 This schema has the following tables:
 1.	**Users:** Contains information about users registered on the platform.
